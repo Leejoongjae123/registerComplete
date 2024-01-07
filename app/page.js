@@ -12,7 +12,7 @@ export default function Home() {
             렛츠두잇을 본격적으로 시작해보세요
           </p>
           <p class="mb-4 text-lg font-light text-gray-500 dark:text-gray-400">
-            POWERED BY Let's Do It
+            POWERED BY Let's Do Eat
           </p>
         </div>
       </div>
